@@ -1,6 +1,5 @@
 # Household Waste Sorting Advisor
 ### Intelligent Municipal Waste Classification & Big Data Analytics System
-**Course:** Big Data Systems (BDS) • 3rd Year College Project  
 **Tech Stack:** React 19, Tailwind CSS, FastAPI, MongoDB, Apache Spark / PySpark, MobileNetV2  
 
 ---
@@ -220,10 +219,4 @@ Open **http://localhost:5173** in your web browser.
 
 ---
 
-## 🎓 College Viva Voce Questions
 
-For full academic viva voce preparation and deep architecture explanations, see [docs/BIG_DATA_CONCEPTS.md](docs/BIG_DATA_CONCEPTS.md).
-
-1. **Why is MongoDB suited for waste telemetry?** Flexible BSON document schema allows multi-class softmax probability vectors, bounding boxes, and IoT sensor metadata without costly schema migrations.
-2. **What does the PySpark batch pipeline do?** Aggregates millions of raw records in parallel using MapReduce transformations (`groupBy`, `date_trunc`, `windowing`) to calculate city diversion rates and household scores.
-3. **How does transfer learning help?** MobileNetV2 uses pre-trained weights from 1.4 million ImageNet images, requiring minimal training time while retaining high accuracy ($>90\%$) and low inference latency ($<300\text{ms}$).
